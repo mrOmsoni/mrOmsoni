@@ -19,7 +19,7 @@
 
 - 🎓 B.Tech CSE student at **Shri Ram Group of Institutions, Jabalpur** (2022–2026) — CGPA: 7.54
 - 🚀 Building real-world projects with **React, Next.js, MERN Stack & Tailwind CSS**
-- 🤖 Exploring **AI integration** in web apps (used Gemini AI in production project)
+- 🤖 Exploring **AI integration** in web apps (used Gemini AI , claude in production project)
 - 🏆 AICTE Intern — *AI: Transformative Learning* (Microsoft & SAP initiative)
 - 🔒 Certified in **Cybersecurity Essentials** — Cisco Networking Academy
 - 📫 Reach me at: **arjunsoni7470@gmail.com**
